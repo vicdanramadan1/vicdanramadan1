@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vicdan ramadan native Android developer
-- 👀 I’m interested in native Android development
+- 👀 I’m experinced in Kotlin , KMP , CMP
 - 💞️ I’m looking to collaborate on any native Android projects
 - 📫 vicdanramadan1@gmail.com 
 
